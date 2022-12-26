@@ -147,7 +147,7 @@ html{
     min-width: 200px;
     top: 40px;
     display: none;
-    animation: fadeInDown;
+    animation: fadeInRight;
     animation-duration: 0.5s;
     z-index: 1;
 
